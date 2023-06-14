@@ -1,3 +1,9 @@
+# Project Ignores
+data/mnist/*
+data/ispy2/*
+data/irony/*
+data/mushroom_edibility/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
